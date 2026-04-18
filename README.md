@@ -45,7 +45,7 @@ Git • GitHub • Jupyter Notebook
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prasann357&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasann357&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasann357&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&border_radius=10" height="150"/>
 </p>
 
 <p align="center">
