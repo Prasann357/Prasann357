@@ -43,8 +43,6 @@ Git • GitHub • Jupyter Notebook
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prasann357&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasann357&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
@@ -57,8 +55,8 @@ Git • GitHub • Jupyter Notebook
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,bootstrap,mysql,git,docker&perline=5" />
 </p>
-## 📫 Connect With Me
+📫 Connect With Me
 
-📧 Personal: kumarprasann66@gmail.com  
-📧 College: 25mcs123@nith.ac.in  
+📧 Personal Mail-Id: kumarprasann66@gmail.com  
+📧 College Mail-Id: 25mcs123@nith.ac.in  
 🔗 LinkedIn: https://www.linkedin.com/in/prasannkr  
