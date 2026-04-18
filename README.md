@@ -43,11 +43,7 @@ Git • GitHub • Jupyter Notebook
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasann357&show_icons=true&theme=default&hide_border=true" />
-</p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prasann357&show_icons=true&theme=default&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasann357&layout=compact&theme=default&hide_border=true" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,bootstrap,mysql,git,docker" /> </p>
 
 ## 📫 Connect With Me
 
