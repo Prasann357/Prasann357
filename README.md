@@ -1,26 +1,18 @@
 <h1 align="center">Hi 👋, I'm Prasann Kumar</h1>
-<h3 align="center">🚀 Machine Learning & AI Enthusiast | Web Developer</h3>
+<h3 align="center">🚀 Machine Learning & AI | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Enthusiast;Full+Stack+Learner;Building+End-to-End+Solutions;Turning+Data+Into+Insights" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prasann357&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+AI;Web+Developer;React+%7C+TensorFlow+%7C+Python;Building+End-to-End+Solutions" />
 </p>
 
 ---
 
-## 💫 About Me
+## 💡 Profile Summary
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I apply **Machine Learning, Artificial Intelligence, and Web Development** concepts to build and deploy **end-to-end solutions** using **Python, TensorFlow, and modern web technologies**.  
 
-- 🎓 Computer Science Graduate  
-- 🤖 Passionate about **Machine Learning, AI & NLP**  
-- 💻 Skilled in **Web Development (HTML, CSS, JavaScript, React)**  
-- 🚀 Building **end-to-end ML solutions (Data → Model → Deployment)**  
-- 📊 Interested in solving **real-world problems using data**  
-- ⚡ Always learning and exploring new technologies  
+🎓 Currently pursuing **M.Tech in Artificial Intelligence at NIT Hamirpur**  
+I focus on developing scalable applications with **clean, efficient, and version-controlled code**, solving real-world problems using data-driven approaches.
 
 ---
 
@@ -48,7 +40,6 @@
 <img src="https://img.shields.io/badge/Deep_Learning-1B5E20?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CNN-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BERT-FDD835?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Tools & Libraries
@@ -66,24 +57,17 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Hate Speech Detection (CNN + BERT)
-- Built an **end-to-end NLP system** for detecting abusive content  
-- Used **TF-IDF, sentiment analysis, and user-based features**  
-- Handles **sarcasm and contextual meaning**
+### 🔹 React Practice Projects
+- Built **React.js components and UI features**  
+- Focused on **state management and reusable components**  
+👉 https://github.com/Prasann357/reactproject1  
 
 ---
 
-### 🔹 Diabetic Retinopathy Detection
-- Developed a **CNN-based medical image classifier**  
-- Applied **data preprocessing, augmentation, and tuning**  
-- Deployed using **Docker + Web Application**
-
----
-
-### 🔹 Real Estate Web Application
-- Developed using **React, HTML, CSS, JavaScript**  
-- Implemented **search filters, 3D tours, and maps**  
-- Optimized **performance and user engagement**
+### 🔹 Kasrat – Gym Website
+- Developed using **HTML, CSS, JavaScript**  
+- Designed a **responsive UI with interactive elements**  
+👉 https://github.com/Prasann357/Kasrat  
 
 ---
 
@@ -94,19 +78,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasann357&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasann357&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-
-
 ## 📫 Connect With Me
-📧 kumarprasann66@gmail.com 
-📧 25mcs123@nith.ac.in
-🔗 www.linkedin.com/in/prasannkr
-    
+
+📧 Personal: kumarprasann66@gmail.com  
+📧 College: 25mcs123@nith.ac.in  
+🔗 LinkedIn: https://www.linkedin.com/in/prasannkr  
 
 ---
 
