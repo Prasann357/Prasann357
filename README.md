@@ -16,6 +16,15 @@ I focus on developing scalable applications with **clean, efficient, and version
 
 ---
 
+## 🚀 What I'm Working On
+
+- 📄 Working on **research in drug synergy prediction using deep learning**  
+- 🤖 Developing an **autoencoder-based framework (AESyn)** for predicting effective drug combinations  
+- ⚙️ Enhancing model performance using **hyperparameter tuning and advanced activation functions**  
+- 📊 Applying **deep learning techniques (CNN, neural networks, NLP concepts)** in real-world research problems  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -28,9 +37,9 @@ I focus on developing scalable applications with **clean, efficient, and version
 
 ### 🌐 Web Development
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
@@ -44,30 +53,30 @@ I focus on developing scalable applications with **clean, efficient, and version
 
 ### ⚙️ Tools & Libraries
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 React Practice Projects
-- Built **React.js components and UI features**  
-- Focused on **state management and reusable components**  
-👉 https://github.com/Prasann357/reactproject1  
+### 🔹 Dharohar – Travel Information Website
+- Developed using **HTML, CSS, JavaScript, Bootstrap**  
+- Implemented **place categories and travel package details**  
+- Designed **responsive UI and contact form for user interaction**  
 
 ---
 
-### 🔹 Kasrat – Gym Website
-- Developed using **HTML, CSS, JavaScript**  
-- Designed a **responsive UI with interactive elements**  
-👉 https://github.com/Prasann357/Kasrat  
+### 🔹 Swadhisht – Restaurant Website
+- Built a **responsive restaurant landing page**  
+- Includes **menu, timings, booking system, and UI animations**  
+- Enhanced **user experience with interactive elements**  
 
 ---
 
